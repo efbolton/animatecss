@@ -2,6 +2,9 @@ import logo from "./logo.svg";
 import "./App.css";
 import "animate.css";
 
+// https://javascript.plainenglish.io/how-to-animate-with-css-keyframes-in-react-2d76775b4d74
+// https://animate.style/
+
 function App() {
   return (
     <div className="App">
